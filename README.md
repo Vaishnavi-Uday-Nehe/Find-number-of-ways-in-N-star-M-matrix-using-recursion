@@ -1,4 +1,4 @@
-# Find-number-of-ways-in-N-M-matrix-using-recursion
+# Find-number-of-ways-in-N*M-matrix-using-recursion
 Here n =rows ; m = columns
 actions = left, right, bottom, top
 n = m = 1 means goal achieved
